@@ -1,4 +1,4 @@
-# MDB
+# MP1
 
 This repo contains MDB mini-project 1, "Match the Members".
 

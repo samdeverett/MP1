@@ -9,3 +9,7 @@ The app is meant to teach new members the names of other members through a trivi
 </p>
 
 Note: this repo is missing the member image and name data
+
+Mistakes I made:
+- should’ve used .isHidden instead of making the buttons white
+- should’ve called a func in viewDidLoad instead of just viewDidLoad
